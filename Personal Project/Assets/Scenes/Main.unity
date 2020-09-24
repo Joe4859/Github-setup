@@ -809,6 +809,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   horizontalInput: 0
   xRange: 4
+  jumpForce: 700
+  gravityModifier: 3
 --- !u!65 &1422204202
 BoxCollider:
   m_ObjectHideFlags: 0
